@@ -7,3 +7,5 @@ fourth bug fixed
 fifth bug fixe
 
 ANOTHER FIX MESSAGE FOR PINK MODE
+
+ANOTHER FIX MESSAGE FOR PURPLE MODE
